@@ -25,17 +25,17 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "TurboMods"
+			"value": "𝑩𝑳𝑨𝑪𝑲 𝑺𝒀𝑩𝑬𝑹-𝑺𝑼𝑲𝑰"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "94770378874"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
 			"required": true,
-			"value": "false"
+			"value": "true"
 		},
 		"AUTO_READV2": {
 			"description": "Type true or false",
@@ -65,12 +65,12 @@
 		"BOT_NAME": {
 			"description": "Enter Your Bot Name",
 			"required": true,
-			"value": "Toxic-Alexa_V3"
+			"value": "𝑩𝑳𝑨𝑪𝑲 𝑺𝒀𝑩𝑬𝑹-𝑺𝑼𝑲𝑰 𝑴𝑫"
 		},
 		"PACKNAME": {
 			"description": "Enter Your Name For Sticker Package Name",
 			"required": true,
-			"value": "Turbo Mods"
+			"value": "𝑺𝑼𝑲𝑰!/𝑺𝑻𝑨𝑭𝑨𝑵"
 		},
 		"THEME_EMOJI": {
 			"description": "Enter A Emoji For Menu And Other Theme",
@@ -80,12 +80,12 @@
 		"REACT_EMOJI": {
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
-			"value": "🇮🇳"
+			"value": "😺"
 		},
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "916380260672"
+			"value": "94768440031"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
